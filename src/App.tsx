@@ -34,9 +34,7 @@ export default function App() {
                 <span>.</span>
               </h1>
 
-              <p className="mt-5 text-sm sm:text-base text-slate-600">
-                Building the infrastructure for point-of-care molecular screening, beginning with a 5-minute saliva test for early oral cancer.
-              </p>
+  
 
               <p className="mx-auto mt-6 max-w-3xl text-sm sm:text-base text-slate-600">
                 Too many diseases are detected too late. We're building a new generation of rapid point-of-care molecular diagnostics, beginning with a 5-minute saliva test for early oral cancer and expanding to additional diseases over time.
