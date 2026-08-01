@@ -27,10 +27,10 @@ export default function App() {
           <div className="relative w-full">
             <div className="mx-auto max-w-4xl px-6 text-center">
               <h1 className="text-[26px] sm:text-[34px] lg:text-[40px] font-medium tracking-tight">
-                <span>In-Chair Inflammation Scoring </span>
-                <span className="text-tealSoft">for</span>
+                <span>The future of molecular screening starts </span>
+                <span className="text-tealSoft">starts</span>
                 <MeaningfulBreak />
-                <span className="text-tealSoft">Periodontal Care</span>
+                <span className="text-tealSoft">with saliva</span>
                 <span>.</span>
               </h1>
 
