@@ -37,7 +37,7 @@ export default function App() {
   
 
               <p className="mx-auto mt-6 max-w-3xl text-sm sm:text-base text-slate-600">
-                Too many diseases are detected too late. We're building a new generation of rapid point-of-care molecular diagnostics, beginning with a 5-minute saliva test for early oral cancer and expanding to additional diseases over time.
+                Too many diseases are detected too late. We're building a new generation of rapid point-of-care molecular diagnostics, starting with a 5-minute saliva test for early oral cancer.
               </p>
 
               <div className="mt-8 flex items-center justify-center gap-6">
