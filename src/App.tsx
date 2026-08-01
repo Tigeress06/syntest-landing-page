@@ -54,7 +54,7 @@ export default function App() {
                   href="mailto:aruesha@syntestlabs.com"
                   className="text-sm text-slate-600 underline underline-offset-4 hover:text-slate-900"
                 >
-                  For dentists &amp; partners
+                  For dentists, DSOs, &amp; physicians
                 </a>
               </div>
             </div>
