@@ -27,15 +27,19 @@ export default function App() {
           <div className="relative w-full">
             <div className="mx-auto max-w-4xl px-6 text-center">
               <h1 className="text-[26px] sm:text-[34px] lg:text-[40px] font-medium tracking-tight">
-                <span>The future of health, </span>
-                <span className="text-tealSoft">powered by</span>
+                <span>In-Chair Inflammation Scoring </span>
+                <span className="text-tealSoft">for</span>
                 <MeaningfulBreak />
-                <span className="text-tealSoft">your saliva</span>
+                <span className="text-tealSoft">Periodontal Care</span>
                 <span>.</span>
               </h1>
 
               <p className="mt-5 text-sm sm:text-base text-slate-600">
-                The first routine biomarker tracker for oral health — no labs, no waiting.
+                Building the infrastructure for point-of-care molecular screening, beginning with a 5-minute saliva test for early oral cancer.
+              </p>
+
+              <p className="mx-auto mt-6 max-w-3xl text-sm sm:text-base text-slate-600">
+                Too many diseases are detected too late. We're building a new generation of rapid point-of-care molecular diagnostics, beginning with a 5-minute saliva test for early oral cancer and expanding to additional diseases over time.
               </p>
 
               <div className="mt-8 flex items-center justify-center gap-6">

@@ -3,13 +3,11 @@ import type { CSSProperties } from "react";
 import nsf from "../assets/logo-nsf.png";
 import leapyear from "../assets/logo-leapyear.png";
 import characterCapital from "../assets/logo-character-capital.png";
-import uciHealth from "../assets/logo-uci-health.png";
 
 const logos = [
   { id: 1, src: characterCapital, alt: "Character Capital" },
-  { id: 2, src: uciHealth, alt: "UCI Health" },
-  { id: 3, src: nsf, alt: "NSF" },
-  { id: 4, src: leapyear, alt: "Leapyear" },
+  { id: 2, src: nsf, alt: "NSF" },
+  { id: 3, src: leapyear, alt: "Leapyear" },
 ];
 
 const extended = [...logos, ...logos, ...logos];
